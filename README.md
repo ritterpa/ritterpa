@@ -5,6 +5,11 @@ I am a technology professional and graduate student with a passion for designing
 Throughout my career, I have led and supported initiatives involving cloud adoption, endpoint management, infrastructure modernization, cybersecurity operations, and enterprise application delivery. These experiences have strengthened my ability to analyze business requirements, evaluate technical solutions, and collaborate with stakeholders across organizational levels to drive meaningful results.
 As a master's student, I am focused on expanding my expertise in solution architecture, strategic technology planning, and digital transformation. My academic studies complement my professional experience by providing advanced knowledge in technology leadership, systems analysis, and organizational strategy. I am particularly interested in helping organizations leverage emerging technologies to improve operational efficiency, enhance security, and support long-term business goals.
 
+## Resume
+
+## 📄 Resume
+
+Click here to view my [Resume PDF📄](./resume.pdf).
 
 ## Notable Projects
 
