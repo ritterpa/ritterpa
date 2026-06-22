@@ -21,7 +21,7 @@ Core Areas of Interest
 
 ## 📄 Resume
 
-Click here to view my [Resume PDF📄](./resume.pdf).
+Click here to view my [Resume PDF📄](./Resume.pdf).
 
 ## Notable Projects
 
