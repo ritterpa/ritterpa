@@ -13,8 +13,17 @@ As a master's student, I am focused on expanding my expertise in solution archit
 Internship Content
 
 ### Campus Network Architecture
+
 As part of my past experience, I was a contributor to transforming the campus network into a highly redundant Layer 3 MPLS network using VRFs to achieve strict segmentation of research, testing, and disaster recovery environments, as well as guest, resident, and tenant networks from the production campus network.
+
 <img width="1149" height="769" alt="image" src="https://github.com/user-attachments/assets/48e47bc5-d681-405e-9acd-689c9d70d981" />
+
+### Analytics Visualizations and Dashboards
+
+As part of my MBA concentration in business analytics, I developed the following Tableau dashboard to showcase the value of NKU's undergraduate degrees against several of its benchmark institutions, its regional competitors, and the other public universities in Kentucky, using data published by the US Department of Education.
+
+<img width="1441" height="812" alt="image" src="https://github.com/user-attachments/assets/f88cfc04-ec76-45f0-90d2-210b18e54966" />
+
 
 <!--
 **ritterpa/ritterpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
