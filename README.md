@@ -1,5 +1,10 @@
 ## Paul Ritter
 
+### About Me
+I am a technology professional and graduate student with a passion for designing innovative solutions that align business objectives with modern technology. With experience spanning systems administration, infrastructure engineering, cybersecurity operations, cloud platforms, and enterprise technology management, I enjoy solving complex problems and translating technical concepts into practical business outcomes.
+Throughout my career, I have led and supported initiatives involving cloud adoption, endpoint management, infrastructure modernization, cybersecurity operations, and enterprise application delivery. These experiences have strengthened my ability to analyze business requirements, evaluate technical solutions, and collaborate with stakeholders across organizational levels to drive meaningful results.
+As a master's student, I am focused on expanding my expertise in solution architecture, strategic technology planning, and digital transformation. My academic studies complement my professional experience by providing advanced knowledge in technology leadership, systems analysis, and organizational strategy. I am particularly interested in helping organizations leverage emerging technologies to improve operational efficiency, enhance security, and support long-term business goals.
+
 <!--
 **ritterpa/ritterpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
